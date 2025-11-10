@@ -32,9 +32,7 @@ It features smooth navigation, interactive product filtering, a responsive desig
 | **Authentication** | Clerk |
 | **State Management** | Context API / Redux |
 | **Routing** | React Router |
-| **Backend (Optional)** | Node.js, Express |
-| **Database (Optional)** | Firebase / MongoDB |
-| **Deployment** | Vercel / Netlify |
+| **Deployment** | Vercel  |
 
 ---
 
