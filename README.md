@@ -56,5 +56,3 @@ It features smooth navigation, interactive product filtering, a responsive desig
    Manage profile info, view past orders, and edit preferences.  
 
 ---
-
-## 🧩 Folder Structure  
